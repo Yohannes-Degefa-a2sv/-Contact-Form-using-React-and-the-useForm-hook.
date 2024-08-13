@@ -5,7 +5,7 @@ This project demonstrates the creation of a basic contact form using React and t
 By leveraging the useForm hook, this project showcases efficient state management and form handling, resulting in a user-friendly and responsive contact form.
 
 
-# if the input field is empty,   ___ required. message is displayed on the screen 
+# if the input field is empty,  input required. message is displayed on the screen 
 ![Screenshot from 2024-08-11 12-24-05](https://github.com/user-attachments/assets/27389c88-d445-4ebc-be11-bef4f7d8f9a9)
 
 
